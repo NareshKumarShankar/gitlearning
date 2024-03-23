@@ -1,0 +1,12 @@
+.tablehead{
+    column-gap: 2px;
+    border: 2px;
+    border-color:blue;
+    border-width: 2px;
+    color:red;
+    font-style: italic;
+}
+#content{
+    text-align: center;
+    color: forestgreen;
+}
