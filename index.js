@@ -1,2 +1,3 @@
 console.log("Hello World!");
-alert("Hello World!");
+var a=10;
+alert("Hello World! Welcome");
